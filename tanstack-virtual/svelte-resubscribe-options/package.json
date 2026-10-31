@@ -1,0 +1,12 @@
+{
+  "name": "svelte-virtual-resubscribe-options-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "repro": "node repro.mjs"
+  },
+  "dependencies": {
+    "@tanstack/svelte-virtual": "3.13.50",
+    "svelte": "4.2.20"
+  }
+}
