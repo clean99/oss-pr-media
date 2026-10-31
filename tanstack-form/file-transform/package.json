@@ -1,0 +1,11 @@
+{
+  "name": "tanstack-form-file-transform-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node repro.mjs"
+  },
+  "dependencies": {
+    "@tanstack/form-core": "1.33.5"
+  }
+}
